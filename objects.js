@@ -1,3 +1,3 @@
 var playlist ={
-  bob marly: "Don't rock my boat",
+  bobMarly: "Don't rock my boat",
 }
